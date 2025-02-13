@@ -1,0 +1,8 @@
+{
+    "eslint.validate": ["typescript", "typescriptreact"],
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "files.readonlyInclude": {
+        ".vscode/gh.txt": true,
+        "stc/app/core/generated-models/**": true
+    }
+}
