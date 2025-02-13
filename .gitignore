@@ -4,6 +4,6 @@ build
 dist
 npm-debug.log
 
-
+.vscode
 TODO.txt
 .DS_Store
